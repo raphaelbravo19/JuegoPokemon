@@ -1,0 +1,23 @@
+﻿  Juego.cpp
+Juego.cpp(236): warning C4101: 'evo': variable local sin referencia
+Juego.cpp(235): warning C4101: 'pre': variable local sin referencia
+Juego.cpp(571): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(572): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(577): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(578): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(641): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(642): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(643): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(644): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(2644): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+Juego.cpp(3398): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(3399): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(3400): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(3405): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(3406): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(3407): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(3427): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(3428): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+Juego.cpp(3429): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\user\desktop\juego\juego\juego.cpp(2482): warning C4715: 'Juego::Debilitado': no todas las rutas de acceso de control devuelven un valor
+  Juego.vcxproj -> C:\Users\User\Desktop\Juego\Debug\PokemonJuego.exe
